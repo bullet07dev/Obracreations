@@ -1,0 +1,14 @@
+{
+  "title": "Obracreations",
+  "description": "Showcase your photography portfolio with a visually stunning, animated web application designed for photographers to highlight their talent and creativity.",
+  "robots": {
+    "index": false
+  },
+  "icons": {
+    "icon": "/.figma/make/favicon.png"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
